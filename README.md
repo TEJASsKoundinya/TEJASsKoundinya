@@ -27,6 +27,17 @@
 <img align="left" alt="Rtool" width="32px" src="https://www.r-project.org/logo/Rlogo.png" />
 <img align="left" alt="PowerBI" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" />
 <img align="left" alt="Tableau" width="62px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" />
+
+<br />
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TEJASsKoundinya&layout=compact)](https://github.com/TEJASsKoundinya/github-readme-stats)
+<br />
+<br />
+
+### GitHub stats
+![TEJASsKoundinya GitHub stats](https://github-readme-stats.vercel.app/api?username=TEJASsKoundinya&count_private=true)
+
 <!---
 TEJASsKoundinya/TEJASsKoundinya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
