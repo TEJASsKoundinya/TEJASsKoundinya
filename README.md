@@ -5,6 +5,8 @@
 - 🧧 Ask me about.. anything
 - 🏴‍☠️ Fun fact.. I love to code, paint and draw 
 - 🌞♾🌚 Just living the life..
+- For my Data analytic projects follow me @ [Kaggle](https://www.kaggle.com/tejassurajkoundinya)
+- For my 🎨🎞📸 follow me @ [Instagram](https://www.instagram.com/click_and.ink/)
 - 📫 Reach me at TejasSurajKoundinya@outlook.com
 
 ### Connect me @
