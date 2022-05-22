@@ -10,7 +10,9 @@
 - 📫 Reach me at TejasSurajKoundinya@outlook.com
 
 ### Connect me @
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/TejasSkoundiny.svg?style=social&label=Follow%20%40TejasSkoundiny)](https://twitter.com/TejasSkoundiny)
+
+[![Twitter Badge](https://img.shields.io/twitter/url/https/twitter.com/TejasSkoundiny.svg?style=social&label=Follow%20%40TejasSkoundiny))](https://twitter.com/TejasSkoundiny) [![Linkedin Badge](https://img.shields.io/badge/-tejas-suraj-koundinya-081443191-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-suraj-koundinya-081443191/) [![Mail Badge](https://img.shields.io/badge/-@click_and.ink-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/click_and.ink)
+
 
 ### Language and Tools:
 
