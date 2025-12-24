@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @TEJASsKoundinya
-- 👀 I’m interested in AI (ML & DL) and web-ui-dev  
-- 🌱 I’m currently learning everything what I can 😜
-- 🙌 I’m looking to collaborate on projects associated with data science
-- 🧧 Ask me about.. anything
-- 🏴‍☠️ Fun fact.. I love to code, paint and draw 
-- 🌞♾🌚 Just living the life..
+- 👀 Talk to me about Cyber and AI
+
 - For my Data analytic projects follow me @ [Kaggle](https://www.kaggle.com/tejassurajkoundinya)
 - 📫 Reach me at TejasSurajKoundinya@outlook.com or @ [Linked in](https://www.linkedin.com/in/tejas-suraj-koundinya-081443191/)
 - 🌌my @[CV](https://mycv-tsk.pages.dev/) 
