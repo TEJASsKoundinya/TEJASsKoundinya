@@ -2,7 +2,7 @@
 - 👀 Talk to me about Cyber and AI
 
 - For my Data analytic projects follow me @ [Kaggle](https://www.kaggle.com/tejassurajkoundinya)
-- 📫 Reach me at TejasSurajKoundinya@outlook.com or @ [Linked in](https://www.linkedin.com/in/tejas-suraj-koundinya-081443191/)
+- 📫 Reach me at @ [Linked in](https://www.linkedin.com/in/tejas-suraj-koundinya-081443191/)
 - 🌌my @[CV](https://mycv-tsk.pages.dev/) 
 
 
