@@ -114,6 +114,43 @@
 - Git & GitHub – version control & collaboration
 - MATLAB & R – statistical computing and analysis
 
+**Full Stack Development**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+- **Front-end** – Angular and React for building UI/component-driven web apps
+- **Back-end** – Node.js (Express) and Python Flask for APIs & server-side logic
+- REST API design & integration between front-end and back-end services
+
+**Databases**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+- SQL – relational database design & querying
+- PostgreSQL – open-source relational database for production workloads
+- Azure SQL – managed cloud relational database on Azure
+- NoSQL (MongoDB) – document-based database for flexible, unstructured data
+
+**Other SDE / Full Stack Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+- Docker – containerization for consistent dev/deployment environments
+- Postman – API testing & documentation
+- Jira – agile project tracking & sprint management
+- GitHub Actions / CI-CD – automated build, test & deployment pipelines
+- npm/yarn – package management for JS ecosystems
+
 ---
 
 ## 📈 Observability Skills
