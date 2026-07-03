@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @TEJASsKoundinya
 - 🔐 Cyber Security specialist working across IAM, Cloud, and Network Security — with a growing focus on AI x Security R&D
 - 👀 Talk to me about Cyber and AI
-- 📊 For my Data analytic projects follow me @ [Kaggle](https://www.kaggle.com/tejassurajkoundinya)
+- 📊 For my AI/ML projects follow me @ [Kaggle](https://www.kaggle.com/tejassurajkoundinya)
 - 📫 Reach me at @ [LinkedIn](https://www.linkedin.com/in/tejas-suraj-koundinya-081443191/)
 - 🌌 my @ [CV](https://mycv-tsk.pages.dev/)
 
