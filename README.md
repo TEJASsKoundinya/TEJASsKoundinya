@@ -122,18 +122,13 @@
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
 
 - Grafana – observability dashboards & metrics monitoring
 - Databricks – data engineering & analytics at scale
 - Power BI – business intelligence & reporting
 - Power Automate – workflow automation, including flows powered by AI agents
-
----
-
-## 🧰 Others
-
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
 - Tableau – data visualization & dashboarding
 
 <!---
