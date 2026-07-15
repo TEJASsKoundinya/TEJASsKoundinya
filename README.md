@@ -58,7 +58,7 @@
 
 **AI for Security**
 
-- Anomaly detection and threat modeling with ML
+- Anomaly detection and threat modeling with ML and AI soc
 - Cyber ⇄ AI R&D – AI-for-Cyber (ML-driven threat detection) and Cyber-for-AI (securing AI systems/pipelines)
 
 **Python ML Stack**
